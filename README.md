@@ -14,7 +14,6 @@
     <li><a href="#about">About</a></li>
     <li><a href="#concepts-covered">Concepts Covered</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#examples">Examples</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
   </ul>
@@ -36,7 +35,7 @@
     <li>✅ Final Keyword</li>
   </ul>
 
-  <h2 id="getting-started">🚀 Getting Started</h2>
+  <h2 id="getting-started">Getting Started</h2>
   <h3>Prerequisites</h3>
   <ul>
     <li>Java JDK 8 or above</li>
@@ -54,17 +53,6 @@
     <li>Open the project in your favorite IDE</li>
     <li>Compile and Run the <code>.java</code> files to see the output</li>
   </ol>
-
-  <h2 id="examples">💡 Examples</h2>
-  <p>Here’s a quick look at how concepts are structured in this repo:</p>
-  <ul>
-    <li><code>Person.java</code> – Demonstrates <strong>Classes and Objects</strong></li>
-    <li><code>Animal.java</code> & <code>Dog.java</code> – Demonstrates <strong>Inheritance</strong></li>
-    <li><code>Shape.java</code> & <code>Circle.java</code> – Demonstrates <strong>Abstraction</strong></li>
-    <li><code>Vehicle.java</code> – Demonstrates <strong>Interfaces</strong></li>
-    <li><code>Calculator.java</code> – Demonstrates <strong>Method Overloading</strong></li>
-  </ul>
-  <p>📂 Check the <code>/src</code> folder for all code examples.</p>
 
   <h2 id="contributing">🤝 Contributing</h2>
   <p>Contributions, improvements, and suggestions are welcome!</p>
@@ -86,8 +74,8 @@
   <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
   <h2>📬 Contact</h2>
-  <p>Created with ❤️ by <strong>Your Name</strong></p>
-  <p><a href="https://github.com/your-username">GitHub Profile</a></p>
+  <p>Created by <strong>Harsh Jain</strong></p>
+  <p><a href="https://github.com/jainharsh524">GitHub Profile</a></p>
 
 </body>
 </html>
