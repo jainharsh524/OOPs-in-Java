@@ -4,6 +4,10 @@ public class Lecture_1 {
         Student defaultStudent = new Student();
         Harsh.displayDetails();
         defaultStudent.displayDetails();//shows the details which are in the empty parameterised constructor.
+        final A a = new A("Harsh");
+        a.name = "Ullas";
+        //when a non primitive is final you cannot reassign it.
+//        a = new A("Ullas");
     }
 }
 class Student{
@@ -46,3 +50,13 @@ class Student{
         System.out.println("Mother's Name- "+this.mName);
     }
 }
+//final keyword
+class A{
+    int a;
+    int b;
+    String name;
+    A(String name){
+        this.name = name;
+    }
+}
+
