@@ -64,3 +64,8 @@ public class Main {
 //Overriding happens when the child class (Circle) has a method with the same signature as in the parent class (Shapes).
 //At runtime, Java decides which method to execute based on the actual object’s type — not the reference type.
 //This is runtime polymorphism in action.
+
+//Important:-
+//If a function is a final function it can't be overridden.
+//Overriding depends on the object and static methods doesn't depend on the objects.
+//Hence, static methods can't be overridden.
