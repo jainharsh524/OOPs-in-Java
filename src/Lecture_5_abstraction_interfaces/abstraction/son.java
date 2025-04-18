@@ -1,4 +1,4 @@
-package Lecture_5_abstraction_interfaces;
+package Lecture_5_abstraction_interfaces.abstraction;
 
 //public abstract class son extends Parent{
 //

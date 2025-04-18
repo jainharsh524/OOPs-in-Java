@@ -1,4 +1,4 @@
-package Lecture_5_abstraction_interfaces;
+package Lecture_5_abstraction_interfaces.abstraction;
 
 public class daughter extends Parent{
     public daughter(int age) {
