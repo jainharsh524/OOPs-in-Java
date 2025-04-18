@@ -26,8 +26,6 @@
     <li>✅ Classes and Objects</li>
     <li>✅ Inheritance</li>
     <li>✅ Polymorphism</li>
-    <li>✅ Encapsulation</li>
-    <li>✅ Abstraction</li>
     <li>✅ Method Overloading and Overriding</li>
     <li>✅ Interfaces</li>
     <li>✅ Constructors</li>
